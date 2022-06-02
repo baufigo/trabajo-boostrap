@@ -1,0 +1,11 @@
+.titulo1{
+    text-align: center;
+    
+}
+.carousel-inner{
+    height: 450px;
+}
+.card{
+    margin: 25px;
+    padding: 25px;
+}
